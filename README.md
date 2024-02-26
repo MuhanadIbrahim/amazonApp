@@ -24,4 +24,5 @@ flutter run
 ```
 #### Feel free to dive into the source code and contribute to the development of the Amazon Clone app. We appreciate your feedback and contributions as we strive to create a seamless and enjoyable e-commerce experience.
 
-<img scr="https://github.com/MuhanadIbrahim/amazonApp/assets/131565465/ad40449c-87ce-46a6-995f-6b0b51897aa8" width="300">
+
+<img src="https://github.com/MuhanadIbrahim/amazonApp/assets/131565465/bd8facf1-949a-4007-9baf-9c636493c5dd">
